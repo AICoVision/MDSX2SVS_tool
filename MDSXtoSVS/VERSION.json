@@ -1,0 +1,16 @@
+{
+  "product": "MDSXtoSVS",
+  "version": "1.0.1",
+  "built_at": "2026-10-27T11:47:19+08:00",
+  "target": "Windows x64",
+  "dependencies": {
+    "pydicom": "3.0.2",
+    "natsort": "8.4.0",
+    "numpy": "2.3.5",
+    "Pillow": "12.3.0",
+    "tifffile": "2025.10.4",
+    "imagecodecs": "2026.6.26",
+    "openslide-python": "1.4.7",
+    "openslide-bin": "4.0.1.2"
+  }
+}

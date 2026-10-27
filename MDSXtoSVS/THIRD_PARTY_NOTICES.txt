@@ -1,0 +1,15 @@
+Third-party components
+
+Pathomation DICOMizer 1.0.0.2 and accompanying Pathomation libraries:
+Copyright Pathomation BV. All rights reserved. Included from the user's local installation for this portable tool.
+https://www.pathomation.com/
+
+DICOMtoSVS: Bertrand Chauveau, University of Bordeaux.
+Upstream project: https://github.com/bertrandchauveau/DICOMtoSVS
+The original README is retained at _internal/vendor/DICOMtoSVS_README.md.
+Local changes add pydicom 3 compatibility, optional pyramid selection and progress callbacks.
+
+Python 3.13, Tcl/Tk, NumPy, Pillow, pydicom, tifffile, imagecodecs,
+natsort, openslide-python, OpenSlide, Microsoft Visual C++ application-local runtime.
+Python and package metadata/license files are retained with the bundled runtime and *.dist-info folders.
+This executable was built with PyInstaller. The listed components retain their respective copyrights and licenses.
